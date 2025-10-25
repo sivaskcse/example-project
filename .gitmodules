@@ -1,0 +1,3 @@
+[submodule "Components"]
+	path = Components
+	url = https://github.com/sivaskcse/example-project.git
